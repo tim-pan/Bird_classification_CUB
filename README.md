@@ -13,7 +13,7 @@ colab GPU(Tesla P100 or Persistence-M)
 2. pytorch with cuda version
 ## introduction
 there are 
-- 2 py files
+- 3 py files
 - 6 ipynb files
 - 2 folders
 
