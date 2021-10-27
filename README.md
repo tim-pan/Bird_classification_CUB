@@ -53,7 +53,7 @@ the file used to reproduce the submission
 
 ## reproduce the submission
 1. refer to the following link, download the folder:
-https://drive.google.com/drive/folders/171GiYTvJxdFTfskjxVAKPC-I36uj0Mz2?usp=sharing
+https://drive.google.com/file/d/1PJGJ6cDWSyUYdrAe6wvS6kZONYM6sHfh/view?usp=sharing
 `reference.py` already in this link, you don't need to download it again.
 2. on cmd, cd to the folder you downloaded
 3. run `inference.py` with your GPU
