@@ -55,6 +55,6 @@ the file used to reproduce the submission
 https://drive.google.com/file/d/1D38aXXP2ELYctE2OqweDZPi0jHjc1Rvo/view?usp=sharing</br>
 dataset and py.files already in this link, you don't need to download it again.
 2. on cmd, cd to the folder you downloaded
-3. run `inference.py`  your GPU
+3. run `inference.py` on your GPU
 
 
