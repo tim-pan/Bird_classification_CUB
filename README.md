@@ -20,24 +20,34 @@ there are
 
 **1. best_train.ipynb:**
 this file has my best try hyperparameter settings, if you want to reproduce whole **training** procedure, please run this file.
+
 **2. birdloader.py**
 data preprocessing file
+
 **3. data_split.ipynb**
 before data preprocessing, use this file to split training data into training set and dev(validation) set
+
 **4. evalute.ipynb**
 reproduce the experiment outcome, will generate a answer.txt file
+
 **5. experiment_vit.ipynb**
 experiment about ViT
+
 **6. experiment_ensemble.ipynb**
 experiment about ensembles of some models
+
 **7. eperiment_single_cnn.ipynb**
 experiment about tuning hyperparameters for different CNN
+
 **8. function.py**
 some function that this homework should use, such as train, eval, etc...
+
 **9. model-para**
 this is a folder, there are three model weight dictionaries in this folder
+
 **10. dataset**
 dataset folder.
+
 **11. inference.py**
 the file used to reproduce the submission
 
