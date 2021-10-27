@@ -10,8 +10,8 @@ bird category classification([CUB dataset 2010](http://www.vision.caltech.edu/vi
 pytorch
 colab GPU(Tesla P100 or Persistence-M)
 ## requirement
-your GPU RAM is larger than 25gb
-pytorch with cuda version
+1. your GPU RAM is larger than 25gb </br>
+2. pytorch with cuda version
 ## introduction
 there are 
 - 2 py files
