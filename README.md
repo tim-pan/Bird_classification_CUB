@@ -2,7 +2,7 @@
 # VRDL_HW1
 ---
 for TA: if you want to reproduce the submission
-just jump the last part.
+just jump to the last part.
 ---
 ## task
 bird category classification([CUB dataset 2010](http://www.vision.caltech.edu/visipedia/CUB-200.html))
